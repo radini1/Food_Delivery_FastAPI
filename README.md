@@ -1,4 +1,4 @@
-># _Food Delivery With [FastAPI!](https://fastapi.tiangolo.com/)_
+># _Food Delivery With [FastAPI!](https://fastapi.tiangolo.com/)._
 _This is a food delivery web application using fastapi and jwt with postgreSQL._
 ># _First :_ 🐘
 _Create your own postgres database and put your username and password in `database.py` and then run `init_db.py`._
