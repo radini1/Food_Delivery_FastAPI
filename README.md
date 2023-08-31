@@ -2,6 +2,7 @@
 _This is a food delivery web application using fastapi and jwt with postgreSQL._
 ># _First :_ 🐘
 _Create your own postgres database and put your username and password in `database.py` and then run `init_db.py`._
+***
 ># _Second :_
 ```python
 import secrets
