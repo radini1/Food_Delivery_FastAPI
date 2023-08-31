@@ -21,6 +21,7 @@ class SignUp(BaseModel):
             }
         }
 
+# Getting a secret key 
 class Setting(BaseModel):
     authjwt_secret_key: str = '1ba56a71c8907be23b02a307ebf03a5cf26c6c8df41f772a53d8429d71ffa317' 
 
