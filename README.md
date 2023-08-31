@@ -7,6 +7,7 @@ _Create your own postgres database and put your username and password in `databa
 import secrets
 secret.token_hex()
 ```
+_You can get a jwt secret code for use in `schemas.py`._
 *** 
 ># _Third :_
 _If you work with [insomnia](https://insomnia.rest/) it would be so good and understandable._
