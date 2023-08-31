@@ -3,8 +3,10 @@ _This is a food delivery web application using fastapi and jwt with postgreSQL._
 ># _First :_ 🐘
 _Create your own postgres database and put your username and password in `database.py` and then run `init_db.py`._
 ># _Second :_
-_`import secrets
-secrets.token_hex()`_
+```python
+_import secrets
+secret.token_hex()_
+```
 *** 
 ># _Third :_
 _If you work with [insomnia](https://insomnia.rest/) it would be so good and understandable._
