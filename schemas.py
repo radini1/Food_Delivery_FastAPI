@@ -11,7 +11,8 @@ class SignUp(BaseModel):
 
     class Config:
         orm_mode = True 
-        schema_extra = {
+        # pedantic 2 
+        json_schema_extra = {
             'example': {
                 'username': 'radin8',
                 'email': 'raadin.dev@gmail.com',
