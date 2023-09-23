@@ -39,6 +39,7 @@ class OrderModel(BaseModel):
 
     class Config:
         orm_mode = True 
+        # pedantic 2 
         schema_extra = {
             'example':{
                 'quantity': 2, 
